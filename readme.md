@@ -32,6 +32,9 @@
 
 - [CDDA-Structured-Kenan-Modpack](https://github.com/Kenan2000/CDDA-Structured-Kenan-Modpack): Kenan's personal modpack
 
+## Awsome Youtube Channels
+- [TheMurderUnicorn](https://www.youtube.com/c/TheMurderUnicorn)
+
 ## Misc
 
 - [Cataclysm: Bright Nights](https://github.com/cataclysmbnteam/Cataclysm-BN): A fork of CDDA, removes realism stuff, focuses on sci-fi elements, adds an ending
