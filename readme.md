@@ -34,6 +34,7 @@
 
 ## Awsome Youtube Channels
 - [TheMurderUnicorn](https://www.youtube.com/c/TheMurderUnicorn)
+- [Rycon Roleplays](https://www.youtube.com/c/ryconroleplays)
 
 ## Misc
 
