@@ -1,6 +1,6 @@
 # CDDA Resources 
 
-> A collection of Cataclysm: Dark Days Ahead resources
+> A curated ollection of Cataclysm: Dark Days Ahead resources
 
 
 ## General
@@ -17,7 +17,7 @@
 
 ## Tileset
 
-- [Mster tileset repository](https://github.com/I-am-Erk/CDDA-Tilesets)
+- [Master tileset repository](https://github.com/I-am-Erk/CDDA-Tilesets)
 - [UndeadPeople](https://github.com/Theawesomeboophis/UndeadPeopleTileset)
 - [pixel-32's CDDA tileset](https://github.com/pixel-32/CDDA-tileset)
 
@@ -44,6 +44,7 @@
 
 ## Tutorials
 - [BEGINNERS TUTORIAL SERIES by Ic0n Gaming](https://www.youtube.com/playlist?list=PLkHfUAaH9nIerkVikx4R6DY4i8Mias-4Q)
+- [Tutorial Playthrough by Vormithrax](https://www.youtube.com/playlist?list=PLKn4Z-msM-9LaCao-lBR6q_gaQKDDghOu): The game version is pretty old
 
 ## Misc
 
