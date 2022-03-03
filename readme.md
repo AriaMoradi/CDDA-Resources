@@ -49,3 +49,4 @@
 ## Misc
 
 - [Cataclysm: Bright Nights](https://github.com/cataclysmbnteam/Cataclysm-BN): A fork of CDDA, removes realism stuff, focuses on sci-fi elements, adds an ending
+- [Guide to adding new content to CDDA for first time contributors](https://github.com/CleverRaven/Cataclysm-DDA/wiki/Guide-to-adding-new-content-to-CDDA-for-first-time-contributors): Read this if you want to add custom content to the game or ceate Mods
