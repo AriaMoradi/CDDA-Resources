@@ -41,6 +41,9 @@
 - [Rycon Roleplays](https://www.youtube.com/c/ryconroleplays)
 - [Vormithrax](https://www.youtube.com/c/Vormithrax)
 
+## Tutorials
+- [BEGINNERS TUTORIAL SERIES by Ic0n Gaming](https://www.youtube.com/playlist?list=PLkHfUAaH9nIerkVikx4R6DY4i8Mias-4Q)
+
 ## Misc
 
 - [Cataclysm: Bright Nights](https://github.com/cataclysmbnteam/Cataclysm-BN): A fork of CDDA, removes realism stuff, focuses on sci-fi elements, adds an ending
