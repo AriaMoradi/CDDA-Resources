@@ -8,8 +8,12 @@
 - [CDDA's Website](https://cataclysmdda.org/)
 - [CDDA's main Github repository](https://github.com/CleverRaven/Cataclysm-DDA)
 - [CDDA's Wiki](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Main_Page)
-- [CDDA Game Launcher](https://github.com/remyroy/CDDA-Game-Launcher): Only supports Windows, unmaintained, use at your own risk.
 - [Hitchhiker's Guide to the Cataclysm](https://nornagon.github.io/cdda-guide/)
+
+## Laucher
+- [CDDA Game Launcher](https://github.com/remyroy/CDDA-Game-Launcher): Only supports Windows, unmaintained, use at your own risk.
+- [Fris0uman's fork of CDDA Game Launcher](https://github.com/Fris0uman/CDDA-Game-Launcher): Maintained version of CDDA Game Launcher
+- [Catapult](https://github.com/qrrk/Catapult): Supports Windows and Linux
 
 ## Tileset
 
