@@ -26,6 +26,7 @@
 - [CC-Sounds](https://github.com/Fris0uman/CDDA-Soundpacks): `CC-Sounds` (or `CO.AG soundpack`)
 - [Otopack](https://github.com/Kenan2000/Otopack-Mods-Updates)
 - [budg3's Soundpack](https://github.com/budg3/CDDA-Soundpack)
+- [damalsksoundpack](https://github.com/damalsk/damalsksoundpack)
 
 
 ## Mod
