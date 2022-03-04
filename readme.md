@@ -25,8 +25,12 @@
 
 - [CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks): `CC-Sounds` (or `CO.AG soundpack`)
 - [Otopack](https://github.com/Kenan2000/Otopack-Mods-Updates)
-- [budg3's Soundpack](https://github.com/budg3/CDDA-Soundpack)
-- [damalsksoundpack](https://github.com/damalsk/damalsksoundpack)
+- [budg3's CDDA Soundpack](https://github.com/budg3/CDDA-Soundpack)
+- [damalsksoundpack](https://github.com/damalsk/damalsksoundpack): AKA @'s Soundpack
+- [ChestHole](http://chezzo.com/cdda/ChestHoleSoundSet.zip)
+- [ChestHoleCC](http://chezzo.com/cdda/ChestHoleCCSoundset.zip)
+- [ChestOldTimey](http://chezzo.com/cdda/ChestOldTimeyLessismore.zip)
+- [RRFSounds](https://www.dropbox.com/s/d8dfmb2facvkdh6/RRFSounds.zip)
 
 
 ## Mod
