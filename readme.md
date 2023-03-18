@@ -1,6 +1,6 @@
 # CDDA Resources 
 
-> A curated ollection of Cataclysm: Dark Days Ahead resources
+> A curated collection of Cataclysm: Dark Days Ahead resources
 
 
 ## General
